@@ -1,0 +1,28 @@
+/*ul,li{*/
+/*    list-style: none;*/
+/*    margin: 2px 8px;*/
+/*    padding: 2px 0;*/
+/*    font-size: 20px;*/
+/*    line-height: 20px;*/
+/*}*/
+ul {
+    margin: 0 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.row{
+    height: calc(100vh - 60px);
+}
+.left{
+    overflow-y: scroll;
+    height: calc(100vh - 70px)!important;
+}
+.left::-webkit-scrollbar{
+    width: 0!important;
+}

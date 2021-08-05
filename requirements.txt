@@ -1,0 +1,10 @@
+asgiref==3.3.1
+certifi==2020.12.5
+charset-normalizer==2.0.3
+Django==3.1.5
+idna==3.2
+pytz==2020.5
+requests==2.26.0
+sqlparse==0.4.1
+urllib3==1.26.6
+wincertstore==0.2
